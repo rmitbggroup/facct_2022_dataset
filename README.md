@@ -1,6 +1,17 @@
 # facct_2022_dataset
 The dataset for our FAccT 2022 Paper "Equitable Public Bus Network Optimization for Social Good: A Case Study of Singapore" is available on the following google drive [link](https://drive.google.com/drive/folders/1LTFuZdID8b5nL_00kWbgEgdnWoeObEJe)
 
+Please cite our paper if using our dataset:
+
+```
+@inproceedings{Tedjopurnomo2022,
+    title={Equitable Public Bus Network Optimization for Social Good: A Case Study of Singapore},
+    author={Tedjopurnomo, David and Bao, Zhifeng and Choudhury, Farhana and Luo, Hui and Qin, A. K.},
+    year = {2022},
+    booktitle = {Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency},
+    series = {FAccT '22}
+}
+```
 
 There are nine pickle (.pkl) files in this repository, the details of which are given below
 
